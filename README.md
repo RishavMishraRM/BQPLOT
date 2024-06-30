@@ -5,3 +5,5 @@ Use this in Jupterlab plotting BQPLOTusing Line chart with line plot and other p
 <img src="https://github.com/RishavMishraRM/BQPLOT/blob/main/voila-bqplot.gif">
 
 Plot
+
+Added pyplot also
