@@ -6,5 +6,5 @@ Use this in Jupterlab plotting BQPLOTusing Line chart with line plot and other p
 
 Plot
 
-Added pyplot Program also
+Added PyPlot Program also <br>
 <a href = "https://github.com/RishavMishraRM/BQPLOT/blob/main/Pyplot.ipynb">PyPlot</a>
